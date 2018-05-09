@@ -10,7 +10,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title></title>
+	<title>Acaíteria</title>
+	<link rel="stylesheet" type="text/css" href="bootstrap-4.1.1/css/bootstrap.min.css" />
+	<link rel="stylesheet" type="text/css" href="css/estilo.css" />
 </head>
 <body>
 	<form method="POST">
